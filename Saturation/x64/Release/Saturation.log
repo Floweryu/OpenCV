@@ -1,0 +1,22 @@
+﻿  file.cpp
+D:\Learn_Files\OpenCV\Saturation\file.cpp(20,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Learn_Files\OpenCV\Saturation\file.cpp(76,38): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+D:\Learn_Files\OpenCV\Saturation\file.cpp(76,38): warning C4244:         with
+D:\Learn_Files\OpenCV\Saturation\file.cpp(76,38): warning C4244:         [
+D:\Learn_Files\OpenCV\Saturation\file.cpp(76,38): warning C4244:             _Tp=uchar
+D:\Learn_Files\OpenCV\Saturation\file.cpp(76,38): warning C4244:         ]
+D:\Learn_Files\OpenCV\Saturation\file.cpp(77,38): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+D:\Learn_Files\OpenCV\Saturation\file.cpp(77,38): warning C4244:         with
+D:\Learn_Files\OpenCV\Saturation\file.cpp(77,38): warning C4244:         [
+D:\Learn_Files\OpenCV\Saturation\file.cpp(77,38): warning C4244:             _Tp=uchar
+D:\Learn_Files\OpenCV\Saturation\file.cpp(77,38): warning C4244:         ]
+D:\Learn_Files\OpenCV\Saturation\file.cpp(78,38): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+D:\Learn_Files\OpenCV\Saturation\file.cpp(78,38): warning C4244:         with
+D:\Learn_Files\OpenCV\Saturation\file.cpp(78,38): warning C4244:         [
+D:\Learn_Files\OpenCV\Saturation\file.cpp(78,38): warning C4244:             _Tp=uchar
+D:\Learn_Files\OpenCV\Saturation\file.cpp(78,38): warning C4244:         ]
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Saturation.vcxproj -> D:\Learn_Files\OpenCV\Saturation\x64\Release\Saturation.exe
