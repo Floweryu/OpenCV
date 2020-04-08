@@ -56,7 +56,7 @@ def cut_column(img, ans):
     return img
 
 if __name__ == "__main__":
-    img = cv2.imread(r"D:\Learn_Files\OpenCV\SeamCarving\sample\test1.jpg")
+    img = cv2.imread("./sample/test1.jpg")
     cv2.imshow("Initial Image", img)
     Xtimes = int(input("请输入X方向裁剪："))
     Ytimes = int(input("请输入Y方向裁剪："))
